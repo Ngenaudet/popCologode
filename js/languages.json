@@ -1,0 +1,98 @@
+{
+    "languages": {
+        "langage": [{
+                "name": "html",
+                "description": "Le HyperText Markup Language, généralement abrégé HTML ou, dans sa dernière version, HTML5, est le langage de balisage conçu pour représenter les pages web.Ce langage permet : d’écrire de l’hypertexte, d’où son nom,de structurer sémantiquement la page,de mettre en forme le contenu,de créer des formulaires de saisie, d’inclure des ressources multimédias dont des images, des vidéos, et des programmes informatiques,de créer des documents interopérables avec des équipements très variés de manière conforme aux exigences de l’accessibilité du web. Il est souvent utilisé conjointement avec le langage de programmation JavaScript et des feuilles de style en cascade (CSS). HTML est inspiré du Standard Generalized Markup Language (SGML). Il s'agit d'un format ouvert.",
+                "picture": "./img/logos/html.png",
+                "alternative": "htlm"
+            },
+            {
+                "name": "javascript",
+                "description": "JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web. Avec les langages HTML et CSS, JavaScript est au cœur des langages utilisés par les développeurs web. Une grande majorité des sites web l'utilisent, et la majorité des navigateurs web disposent d'un moteur JavaScript pour l'interpréter.JavaScript est aussi employé pour les serveurs Web avec l'utilisation (par exemple) de Node.js ou de Deno.JavaScript a été créé en 1995 par Brendan Eich et intégré au navigateur web Netscape Navigator 2.0. L'implémentation concurrente de JavaScript par Microsoft dans Internet Explorer jusqu'à sa version 9 se nommait JScript, tandis que celle d'Adobe Systems se nommait ActionScript. JavaScript a été standardisé sous le nom d'ECMAScript en juin 1997 par Ecma International dans le standard ECMA-262. La version en vigueur de ce standard depuis juin 2022 est la 13e édition.C'est un langage orienté objet à prototype : les bases du langage et ses principales interfaces sont fournies par des objets. Cependant, à la différence d'un langage orienté objets, les objets de base ne sont pas des instances de classes. En outre, les fonctions sont des objets de première classe. Le langage supporte le paradigme objet, impératif et fonctionnel.JavaScript est le langage possédant le plus large écosystème grâce à son gestionnaire de dépendances npm, avec environ 500 000 paquets en août 2017.",
+                "picture": "./img/logos/javascript.png",
+                "alternative": "js"
+            },
+            {
+                "name": "css",
+                "description": "Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C). Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.",
+                "picture": "./img/logos/css.png"
+            },
+            {
+                "name": "python",
+                "description": "Python (prononcé /pi.tɔ̃/) est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet. Il est doté d'un typage dynamique fort, d'une gestion automatique de la mémoire par ramasse-miettes et d'un système de gestion d'exceptions ; il est ainsi similaire à Perl, Ruby, Scheme, Smalltalk et Tcl.Le langage Python est placé sous une licence libre proche de la licence BSD et fonctionne sur la plupart des plates-formes informatiques, des smartphones aux ordinateurs centraux, de Windows à Unix avec notamment GNU/Linux en passant par macOS, ou encore Android, iOS, et peut aussi être traduit en Java ou .NET. Il est conçu pour optimiser la productivité des programmeurs en offrant des outils de haut niveau et une syntaxe simple à utiliser.Il est également apprécié par certains pédagogues qui y trouvent un langage où la syntaxe, clairement séparée des mécanismes de bas niveau, permet une initiation aisée aux concepts de base de la programmation.",
+                "picture": "./img/logos/python.png"
+            },
+            {
+                "name": "java",
+                "description": "Java est une technique informatique développée initialement par Sun Microsystems puis acquise par Oracle à la suite du rachat de l'entreprise. Défini à l'origine comme un langage de programmation, Java a évolué pour devenir un ensemble cohérent d'éléments techniques et non techniques. Ainsi, la technologie Java regroupe :Des standards (la plate-forme Java) définis sous forme de spécification par le Java Community Process (JCP), en trois éditions :Java SE (standard edition),Java EE (enterprise edition), s'appuyant sur Java SE,Java ME (micro edition), indépendante des deux précédentes ;Des logiciels (langages informatiques, bibliothèques, frameworks, serveurs d'application, outils d'aide au développement), dont :Des implémentations (concurrentes) de ces spécifications,Un écosystème d'autres logiciels s'appuyant sur tout ou partie de ces standards, voire leur faisant concurrence ;Des communautés d'entreprises, organisations à but non lucratif (fondations, Java User Groups, universités) et indépendants, membres ou non du JCP, possédant tout ou partie des marques, brevets, parts de marché liés à la technologie Java.Java est un des termes les plus connus du monde de l'informatique et de l'Internet. Sa notoriété est telle que Sun, avant d'être acheté par Oracle Corporation, a décidé de l'utiliser pour son symbole boursier au Nasdaq, symbole qui était SUNW à l'origine, et est devenu JAVA.Java est utilisé dans une grande variété de plates-formes depuis les systèmes embarqués et les téléphones mobiles, les ordinateurs individuels, les serveurs, les applications d’entreprise, les superordinateurs, etc.",
+                "picture": "./img/logos/java.png"
+            },
+            {
+                "name": "powershell",
+                "description": "Windows PowerShell, anciennement Microsoft Command Shell (MSH), nom de code Monad, est une suite logicielle développée par Microsoft qui intègre une interface en ligne de commande, un langage de script nommé PowerShell ainsi qu'un kit de développement. Il est inclus dans Windows 7, Windows 8.1, Windows 10 et Windows 11 (y compris les versions grand public) et s'appuie sur le framework Microsoft .NET.",
+                "picture": "./img/logos/powershell.png"
+
+            },
+            {
+                "name": "php",
+                "description": "PHP: Hypertext Preprocessor, plus connu sous son sigle PHP (sigle auto-référentiel), est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.PHP a permis de créer un grand nombre de sites web célèbres, comme Facebook et Wikipédia. Il est considéré comme une des bases de la création de sites web dits dynamiques mais également des applications web.",
+                "picture": "./img/logos/php.png"
+
+            },
+            {
+                "name": "dart",
+                "description": "Dart est un langage de programmation optimisé pour les applications sur plusieurs plateformes. Il est développé par Google et est utilisé pour créer des applications mobiles, de bureau, de serveur et web.Dart est un langage orienté objet à ramasse-miettes avec une syntaxe de type C++. Dart peut se compiler en code natif ou en JavaScript. Il prend en charge les interfaces, les mixins,les classes abstraites, les génériques réifiés et l'inférence de type.",
+                "picture": "./img/logos/dart.png"
+
+            },
+            {
+                "name": "sql",
+                "description": "SQL (sigle de Structured Query Language, en français langage de requête structurée) est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de SQL permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.Outre le langage de manipulation des données  :le langage de définition des données permet de créer et de modifier l'organisation des données dans la base de données,le langage de contrôle de transaction permet de commencer et de terminer des transactions,le langage de contrôle des données permet d'autoriser ou d'interdire l'accès à certaines données à certaines personnes.Créé en 1974, normalisé depuis 1986, le langage est reconnu par la grande majorité des systèmes de gestion de bases de données relationnelles (abrégé SGBDR) du marché.SQL fait partie de la même famille que les langages ALPHA (dont il est le descendant), SQUARE, QUEL (intégré à Ingres) ou QBE (Zloof). Il a été appelé SEQUEL à sa naissance, mais ce nom a été changé en SQL du fait que SEQUEL était une marque déposée de l'avionneur Hawker-Siddeley.",
+                "picture": "./img/logos/sql.png"
+            }
+        ]
+    },
+    "softwares": {
+        "software": [{
+                "name": "photoshop",
+                "description": "Photoshop est un logiciel de retouche, de traitement et de dessin assisté par ordinateur, lancé en 1990 puis en 1992 pour les systèmes d'exploitations MacOS et Windows",
+                "picture": "./img/logos/photoshop.gif",
+                "alternative": "ps"
+            },
+            {
+                "name": "illustrator",
+                "description": "Illustrator est un logiciel d'illustration qui permet de créer des images vectorielles. Utilisé en complément ou indépendamment de Photoshop, cet outil est à la fois adapté à la création de documents destinés à l'impression (brochure, flyers, plaquette…)",
+                "picture": "./img/logos/illustrator.gif",
+                "alternative": "ai"
+            },
+            {
+                "name": "dreamweaver",
+                "description": "Adobe Dreamweaver permet un codage rapide et simple, avec du texte. Avec des tutoriels qui sont accessibles en quelques clics sur internet, un débutant peut facilement s'en sortir dans la création de son site.",
+                "picture": "./img/logos/dreamweaver.gif",
+                "alternative": "dw"
+            },
+            {
+                "name": "figma",
+                "description": "Qui utilise Figma ? Figma permet de créer des Design Systems collaboratifs où tous les membres de l'équipe, qu'ils soient UX designers, UI designers, développeurs, chefs de produit ou Lead UX Designer peuvent contribuer et enrichir la bibliothèque avec des composants visuels (appelés symboles dans d'autres logiciels)",
+                "picture": "./img/logos/figma.gif"
+            },
+            {
+                "name": "muse",
+                "description": "Adobe Muse est un produit édité par Adobe Systems. Le logiciel est destiné aux graphistes, à qui il permet de créer des sites internet sans nécessiter l'écriture de lignes de code1. Cette application est disponible avec Adobe Creative Cloud. Muse sera arrêté en mars 2020, les dernières améliorations ayant été publiées en mars 2018",
+                "picture": "./img/logos/muse.gif",
+                "alternative": "mu"
+            },
+            {
+                "name": "director",
+                "description": "Director est un logiciel de création d'applications vidéo (cd-rom, jeux, démos, simulations, tutoriels, ...) pour Windows, Mac OS X, iOS, créé en 1994 et commercialisé par Macromedia puis Adobe Systems sous licence utilisateur final. Fin de la commercialisation et du support le 1er février 2017.",
+                "picture": "./img/logos/director.gif"
+            }
+        ]
+    },
+    "legals": {
+        "legal": [{
+            "title": "Mentions légales",
+            "content": "<p>Editeur du Site :</p><p>Le site web <a href='https://popcode.alainmerucci.fr'>popcode.alainmerucci.fr </a>est &eacute;dit&eacute; par les apprenants de l&#39;<a href='https://www.accesscodeschool.fr/' target='_blank'>Access Code School</a> de Lons le Saunier et n&#39;est en aucun cas destin&eacute; &agrave; une utilisation commerciale. Celui-ci &agrave; &eacute;t&eacute; d&eacute;veloppp&eacute; dans le cadre d&#39;un projet d&#39;&eacute;tude.</p><p>H&eacute;bergement</p><p>OVH<br />SAS au capital de 200 000 euros<br />RCS Paris 393 078 647<br />Si&egrave;ge Sociale : 3 cit&eacute; Paradis 75010 Paris</p><p>Cookies</p><p>Notre site internet utilise des cookies. Il s&rsquo;agit de petits fichiers texte enregistr&eacute;s sur votre disque dur. La plupart des cookies sont destin&eacute;s &agrave; permettre ou faciliter votre navigation et sont n&eacute;cessaires au fonctionnement du site. L&rsquo;utilisation de cookies, propres ou tiers, n&rsquo;&eacute;tant pas obligatoirement n&eacute;cessaires au fonctionnement du site n&eacute;cessite un consentement expr&egrave;s de votre part. Vous pouvez manifester votre consentement ou vous opposer &agrave; l&rsquo;utilisation des cookies en param&eacute;trant votre dispositif de connexion de mani&egrave;re appropri&eacute;e. Reportez-vous pour cela notamment au guide d&rsquo;utilisation de votre navigateur.</p><p>Comment accepter, param&eacute;trer ou refuser un cookie ?</p><p>Vous pouvez configurer votre navigateur de fa&ccedil;on &agrave; ce que les cookies soient enregistr&eacute;s ou rejet&eacute;s.</p><p>Pour Microsoft Internet Explorer :</p><ul><li>Choisissez le menu &nbsp;<strong>Outils</strong> &nbsp;puis &nbsp;<strong>Options Internet&nbsp;</strong></li><li>Cliquez sur l&rsquo;onglet &laquo; Confidentialit&eacute; &raquo;</li><li>S&eacute;lectionnez le niveau souhait&eacute; &agrave; l&rsquo;aide du curseur</li></ul><p>Pour Mozilla Firefox :</p><ul><li>Choisissez le menu <strong>Outils&nbsp;</strong>puis&nbsp;<strong>Options</strong></li><li>Cliquez sur l&rsquo;option <strong>Vie priv&eacute;e</strong></li></ul><p>Pour Chrome :</p><ul><li>Choisissez le menu <strong>Edition</strong> puis&nbsp;<strong>Pr&eacute;f&eacute;rences</strong>&nbsp;</li><li>Cliquez sur l&rsquo;option <strong>Donn&eacute;es personnelles</strong></li><li>Rubrique <strong>Cookies</strong>&nbsp;</li></ul><p>Pour Safari :</p><ul><li>Choisissez le menu <strong>Edition</strong> puis&nbsp;<strong>Pr&eacute;f&eacute;rences</strong>&nbsp;</li><li>Cliquez sur l&rsquo;option <strong>Donn&eacute;es personnelles</strong></li><li>Rubrique <strong>Cookies</strong>&nbsp;</li></ul><p>Protection des donn&eacute;es personnelles</p><p>Aucune information personnelle n&rsquo;est collect&eacute;e &agrave; votre insu.<br />Aucune information personnelle n&rsquo;est c&eacute;d&eacute;e &agrave; des tiers.</p>"
+        }]
+    }
+}
